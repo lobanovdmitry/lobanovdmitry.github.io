@@ -28,7 +28,7 @@ twitter_username: lobanovdmitr
 github_username:  lobanovdmitry
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
